@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "geminibots-446519",
+  "private_key_id": "7271cdbf1443bc4a091a0974ea6687a0813eee3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChe8Wt3mlfEZ49\ndVLg6alFOM4ldNaaPCtVuHpxdkO6WczsV+kuXw21OjYfRLVqgxwSDblbVQpp2IeJ\nKdjKAchO32jfqQGO6/3Ffj6MYBulISz6wji7RKnJfVCqY7V820jLdePC090sqDrQ\nOn6QE8GQq1X3lNd3NsMivtO4fLIDzcxa4LR1AWZDcKQUYWO245SCYIbVHV3Z3Gqo\n6XOk24tESmS02OukDa4RUc8imFN8xHXRiaJ/l+z37dErta7ymsLdQMDPr5b04PQG\ndwXP/tME1zHWloutA35rhaC7qFejHnbtgtIMCDzuHg1IyAWAUPwZHa89qacWTaOf\n9usW/9bxAgMBAAECggEABz2Y8567DMyNi7tAN/qbC2dsiYqGnUh5my0iu+mqZG6R\nQLEA27tQeUHl75Pf43DY3XpeDoP83agcKQCiymI3MBFIK4jxcNU7YaGzYdSdz9Mc\nb07YjepheTntHwMtvfWQewb8+Yf0ZhHgGwFtUyGcFpsWVZhdQHbW6i6yRSTaM2vW\nE08Hsu+A6N4OXGPcfy50630LGEMDcumZFBIT2UPJtoSe2sv/67fUSyyOA5oYt4X9\nybsHwyBYBmKGAKhqyYpjtbOMky5wG8qwCZXSsr4x4iNfC3EYc5yydlu3jv1r0/8c\nJpAqMAR1yLswcpyq8Fs3y4ZXPJiQYvGI6XyqetmNfQKBgQDUc7MNLYJb/XDkeQn1\nmy7gKr7MWTe20ZihVkZ3TkiW/cAw6nUZHbYnkERLitqJaKmpKmScNNXsfZ1USu8S\nkP/8+al9aZTwHtmaiEtklSuvnOX7XnrtpJzPQ5BBmX7JB+xH/LFtz+G3UZbJDnYJ\n+s08NQNSQaHE/8Ez9raeB2W6PwKBgQDClYe9+LlpqfltVDIJlxGIs37jf92zmmBX\nqcUOQ6cb/m97mOQJJKCbPOHGNuLOUoQY9pA2ubeSwyK8lX0uKWrscfeIgbCzeiWk\nhpgiYrbvYKGXNw65ODm0pjwAkY76Ux3N643AfIDGEk3XJRKl/UI5U42meoOQC/wz\nidQr68ZCzwKBgDGYTM0fuZXF5UvAob2PG3NDJ0VG8oWgCjRnko2ZXcK5u9rvcKSL\nVhGIURkdcgSvxSNzfQcmImZRsJ+T2pmH9epVUeav9g/T89JqTMdPN2KIivuSQ7ok\nOmL8D7nwnjNJwTPQ3o6W/8cuqbeHw7BytuR+L6dNIPl/BtgdmOXtLic7AoGAITAz\n6NkFdtpA6r7TkgMsQG6tE8x5WerYx9ry+03asNGi3ifjrROMOS4XLCGsaZh1Y3Sa\ngFsIzoVt5VBx+2+hBxchKy1DoDkTNo6mYCcKIKYQqaQAZOMMJJ292jL5egS3Lqog\nkVYq+J2inTF7jsg1hWWU4XJAAk+pAnldsOgT9s0CgYAbGY4j/AnzLy88TULxja4R\nVlH6NZ8kZPC/7USOFxXju2NkoxVpZ4ETgqsQOSMONMPL+DOEKmIQg4CMDTXBn7JE\nFD92gcmGxLL5EHZ9WcMXqHlM0jJovjZH77/W0s36lYRwKANVV0HPZx/X4Lpk3RsM\n/HD9Kh19IQTDMyWOERjyEQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "geminibot@geminibots-446519.iam.gserviceaccount.com",
+  "client_id": "114992150542907066326",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/geminibot%40geminibots-446519.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
